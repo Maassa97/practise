@@ -16,8 +16,6 @@ public class Main {
 }
 
 
-//FRASER WAS HERE
-
 // This is a test branch
 
 // Fraser was here
