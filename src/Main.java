@@ -16,8 +16,6 @@ public class Main {
 }
 
 
-// THIS IS MY BRANCH NOW SAMU-EL
-
 // This is a test branch
 
 // Fraser was here
